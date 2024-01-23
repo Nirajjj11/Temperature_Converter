@@ -1,2 +1,2 @@
 # Temperature_Converter
-Convert Celcsus to Fahrenheit
+Convert Celcsus to Fahrenheit and vice versa
